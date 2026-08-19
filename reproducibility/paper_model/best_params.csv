@@ -1,0 +1,2 @@
+embed_dim,arc_epoch,lr,max_depth,min_child_weight,subsample,colsample_bytree,reg_alpha,reg_lambda,scale_pos_weight,optimal_threshold
+256,1,0.10992458218499501,6,5,0.7665346220918834,0.933033839018152,3.277393264080812e-07,7.788300007047023e-05,3.390946488103101,0.4234547
